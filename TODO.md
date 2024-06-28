@@ -27,6 +27,8 @@ Example of a workflow that i want to achieve:
 ## 🎯 **Browser API**
 - `Worker`
 - `SharedWorker`
+- `WebWorker`
+- `ServiceWorker`
 - `BroadcastChannel`
   
 ## 🎯 **Optimizations**
