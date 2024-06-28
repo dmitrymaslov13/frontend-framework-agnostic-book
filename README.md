@@ -11,3 +11,5 @@ Every front-end developer, regardless of the framework, encounters tasks of vary
 
 The idea of ​​this book is to describe as many conceptually possible solutions to problems as possible, describing their possible disadvantages and advantages relative to others.
 From drag-and-drop and all its variations to virtual scrolling and micro-frontends
+
+You can see sample list of topics on https://github.com/dmitrymaslov13/frontend-frameworkless-book/blob/main/TODO.md
