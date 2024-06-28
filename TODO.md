@@ -53,3 +53,9 @@ TODO (Dmitry M.) Describe **Event loop** topics.
 
 ## 🎯 **Accessibility**
 TODO (Dmitry M.) Describe **Accessibility** topics.
+
+## 🎯 **Micro Frontends**
+TODO (Dmitry M.) Describe **Micro Frontends** topics.
+
+## 🎯 **Architecture**
+TODO (Dmitry M.) Describe **Architecture** topics.
