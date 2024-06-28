@@ -1,5 +1,5 @@
 # frontend-framework-agnostic-book
-Status: **In idea generation 👀**
+Status: **In describing topics 👀**
 
 ## About idea
 Every front-end developer, regardless of the framework, encounters tasks of varying complexity every day and spends time studying options on how to approach solving the problem. 
